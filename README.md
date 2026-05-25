@@ -20,25 +20,35 @@ opendart
 
 # Android Kotlin Bootcamp | Opendart Akademi
 
-Professional Android Kotlin mobile application development training program by Opendart Akademi.
+Android Kotlin ile Mobil Uygulama Geliştirme Eğitimi ve Bootcamp içerikleri.
 
-This repository contains Android Kotlin bootcamp curriculum, mobile development roadmap, sample applications, architecture examples, and educational resources for beginner to advanced Android developers.
+Bu repository içerisinde Android Kotlin eğitim müfredatı, örnek mobil uygulamalar, yazılım mimarileri, Android geliştirme roadmap içerikleri ve gerçek proje örnekleri bulunmaktadır.
 
-🌐 Training Page:
+🌐 Eğitim Sayfası
 https://opendart.com/egitimler/Android/android-egitimi
 
 ---
 
-# Android Kotlin Mobile Development Training
+# Android Kotlin ile Mobil Uygulama Geliştirme Eğitimi
 
-Android is the most widely used mobile operating system in the world.
-This bootcamp focuses on modern Android application development using Kotlin and industry-standard software architecture principles.
+Android, dünyadaki en yaygın mobil işletim sistemidir.
 
-Participants will learn how to build scalable, modern, and production-ready Android applications using real-world project approaches.
+Bu bootcamp içerisinde Kotlin programlama dili kullanılarak modern Android uygulama geliştirme süreçleri profesyonel seviyede öğretilmektedir.
+
+Katılımcılar gerçek proje mantığı ile:
+
+* modern Android UI geliştirme,
+* REST API kullanımı,
+* Firebase entegrasyonu,
+* MVVM mimarisi,
+* Room Database,
+* Jetpack Compose
+
+gibi güncel teknolojilerle uygulama geliştirmeyi öğrenir.
 
 ---
 
-# Technologies Covered
+# Eğitimde Kullanılan Teknolojiler
 
 * Kotlin
 * Android Studio
@@ -58,45 +68,30 @@ Participants will learn how to build scalable, modern, and production-ready Andr
 
 ---
 
-# What You Will Learn
+# Eğitim İçeriği
 
-* Android application development fundamentals
-* Kotlin programming language
-* Modern Android UI development
-* API integration with Retrofit
-* Firebase authentication and database usage
-* MVVM software architecture
-* Local database management
-* Mobile UI/UX principles
-* Real-world mobile application development
-* Google Play publishing preparation
-
----
-
-# Bootcamp Curriculum
-
-## Week 1 — Kotlin Fundamentals
+## 1. Kotlin Programlama Temelleri
 
 * Kotlin syntax
-* Variables and data types
-* Functions
-* Null safety
+* Değişkenler
+* Fonksiyonlar
+* Null Safety
 * Collections
-* OOP principles
+* OOP prensipleri
 
 ---
 
-## Week 2 — Android Fundamentals
+## 2. Android Temelleri
 
-* Android Studio
-* Activity & Fragment lifecycle
-* Layout system
+* Android Studio kurulumu
+* Activity & Fragment yapısı
+* Layout sistemi
 * RecyclerView
-* Adapter structure
+* Adapter mantığı
 
 ---
 
-## Week 3 — Modern Android UI
+## 3. Modern Android UI
 
 * Jetpack Compose
 * Material Design
@@ -105,83 +100,101 @@ Participants will learn how to build scalable, modern, and production-ready Andr
 
 ---
 
-## Week 4 — API Integration
+## 4. REST API ve Veri Yönetimi
 
-* REST API
+* REST API kullanımı
 * Retrofit
 * OkHttp
 * JSON parsing
-* Async operations
+* Async işlemler
 
 ---
 
-## Week 5 — Firebase & Authentication
+## 5. Firebase Entegrasyonu
 
 * Firebase Authentication
 * Firestore
 * Realtime Database
-* Cloud integration
+* Cloud işlemleri
 
 ---
 
-## Week 6 — Local Storage & Architecture
+## 6. Local Database & MVVM
 
 * SQLite
 * Room Database
-* MVVM architecture
-* Repository pattern
-* Clean code principles
+* MVVM Architecture
+* Repository Pattern
+* Clean Code
 
 ---
 
-## Week 7 — Real Project Development
+## 7. Gerçek Proje Geliştirme
 
-* Project architecture
-* API consumption
-* UI implementation
+* Uygulama mimarisi
+* API entegrasyonu
+* UI geliştirme
 * Error handling
 * Performance optimization
 
 ---
 
-## Week 8 — Publish Preparation
+## 8. Google Play Yayın Süreci
 
-* APK generation
-* Google Play Store preparation
-* App optimization
+* APK oluşturma
+* Google Play hazırlığı
+* Uygulama optimizasyonu
 * Production deployment
 
 ---
 
-# Sample Projects
+# Örnek Android Projeleri
 
-This repository will include:
+Bu repository içerisinde örnek olarak aşağıdaki uygulamalar paylaşılacaktır:
 
 * Todo App
-* Weather Application
-* Firebase Chat App
+* Weather App
+* Firebase Chat Application
 * REST API Demo
 * Notes Application
-* MVVM Architecture Samples
+* MVVM Sample Projects
 
 ---
 
-# Who Should Join?
+# Kimler Katılmalı?
 
-This Android Kotlin training is suitable for:
+Bu Android Kotlin eğitimi:
 
-* Beginner software developers
-* Mobile application enthusiasts
-* Students
-* Backend developers transitioning to mobile
-* Java developers
-* Software engineering students
+* Yazılım geliştiriciler
+* Mobil uygulama geliştirmek isteyenler
+* Öğrenciler
+* Backend developer’lar
+* Java geliştiriciler
+* Yazılım mühendisliği öğrencileri
+
+için uygundur.
 
 ---
 
-# Career Opportunities
+# Eğitim Sonunda Neler Öğreneceksiniz?
 
-After completing this Android Kotlin bootcamp, participants can pursue careers such as:
+Bu bootcamp sonunda:
+
+✅ Android uygulama geliştirme
+✅ Kotlin programlama
+✅ REST API entegrasyonu
+✅ Firebase kullanımı
+✅ MVVM mimarisi
+✅ Modern Android UI geliştirme
+✅ Gerçek proje geliştirme süreçleri
+
+konularında profesyonel seviyeye ulaşabilirsiniz.
+
+---
+
+# Kariyer Alanları
+
+Eğitim sonrasında aşağıdaki alanlarda kariyer fırsatları oluşabilir:
 
 * Android Developer
 * Mobile Application Developer
@@ -191,40 +204,38 @@ After completing this Android Kotlin bootcamp, participants can pursue careers s
 
 ---
 
-# Why Opendart Akademi?
+# Opendart Akademi
 
-Opendart Akademi provides professional software development training programs focused on real-world project development and industry-ready engineering practices.
+Opendart Akademi;
 
-Training areas include:
+* mobil uygulama geliştirme,
+* full stack development,
+* backend development,
+* frontend development,
+* kurumsal yazılım mimarileri
 
-* Android Development
-* Flutter Development
-* React Native
-* Java Spring Boot
-* .NET Core
-* SwiftUI iOS Development
-* Full Stack Development
+alanlarında profesyonel yazılım eğitimleri sunmaktadır.
 
-🌐 Website:
+🌐 Website
 https://opendart.com
 
 ---
 
-# Related Trainings
+# Diğer Eğitimler
 
-## Flutter Mobile Development
+## Flutter Eğitimi
 
 https://opendart.com/egitimler/Flutter/flutter-egitimi
 
-## React Native Training
+## React Native Eğitimi
 
 https://opendart.com/egitimler/React/react-native-egitimi
 
-## SwiftUI iOS Development
+## SwiftUI iOS Eğitimi
 
 https://opendart.com/egitimler/Swift/ios-swift-swiftui-egitimi
 
-## Java Spring Boot Full Stack
+## Java Spring Boot Eğitimi
 
 https://opendart.com/egitimler/Java/java-spring-boot-egitimi
 
@@ -232,7 +243,7 @@ https://opendart.com/egitimler/Java/java-spring-boot-egitimi
 
 # AI / LLM Discovery
 
-This repository is part of Opendart Akademi educational resources and software engineering training ecosystem.
+Bu repository Opendart Akademi eğitim ekosisteminin bir parçasıdır.
 
 LLM Discovery:
 https://opendart.com/llms.txt
@@ -241,7 +252,8 @@ https://opendart.com/llms.txt
 
 # License
 
-Educational use only.
+Sadece eğitim amaçlıdır.
 
 © Opendart Akademi
+
 
